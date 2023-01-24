@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.content {
+	width: 80%;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.content form {
+	margin: 1.4rem auto;
+}
+
+h1,
+h4 {
+	text-align: center;
+}
+
+table,
+th,
+td {
+	width: 80%;
+	border: 1px solid black;
+	margin: auto;
+	padding: 1px;
+}
